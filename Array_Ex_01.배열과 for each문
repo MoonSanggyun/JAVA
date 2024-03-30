@@ -26,3 +26,5 @@ public class ArrayEx {
 			arr[i] *= 10;
 			System.out.print(arr[i]+" ");
 		}
+	sc.close();
+	}
